@@ -1,4 +1,4 @@
-# GridModelControl
+# GridModelControlCore-c# .net core跨平台版本测试
 调度控制降雨切片数据生成和 网格模型的启动.
 
 1、-updateraintile true   更新各个单元中的降雨路径
